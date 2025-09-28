@@ -4,9 +4,31 @@
 
 <p align="center">
   🌟 A curious mind who loves solving problems with <b>code, creativity, and innovation</b>.<br>
-  💼 Previously at <b>Cisco</b>, now pursuing my <b>Master’s in Software Engineering</b> at UMD.<br>
-  🚀 Passionate about <b>AI, automation, and software engineering</b> to build smarter, faster, and reliable systems.
+  💼 Previously a Technical Consulting Engineer at <b>Cisco</b>.<br>
+  🎓 Holds a <b>Bachelor of Engineering (B.E.) in Computer Science and Engineering</b> from Vasavi College of Engineering, Hyderabad.<br>
+  📚 Now pursuing a <b>Master’s in Software Engineering</b> at University of Maryland, College Park.<br>
+  🚀 Passionate about <b>AI, automation, and software engineering</b> to build smarter, faster, reliable, and scalable systems.
 </p>
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 **Gold Medalist** – B.E. CSE (CGPA 9.78/10)  
+- 🎖️ **Finalist**, Smart India Hackathon 2022  
+- 🏅 **Winner**, Young Leader Award (CSE Dept.)  
+- 🎯 **Cisco Certified**: Generative AI Blue Belt | CCNA | DevNet  
+- 🏆 **Branch Representative**, CodeChef VCE
+- 🎯 **Top 5**, No Code ML, Techfest, IIT Bombay (among 500+ teams) 
+- 🥉 **Top 50**, National Python Quiz, OAM University (out of 10,000+ participants)
+
+---
+
+## 📌 Featured Projects  
+
+- 🎬 **Movie Ticket Booking Portal** - A user-friendly website enabling users to book tickets, view, and delete their bookings, with optimized SQL queries.
+- 🌱 **Delightful Drips: Smart Irrigation System** – A cost-effective smart irrigation system using Raspberry Pi to control solenoid valves, which automatically sprinkle water when soil moisture falls below 30%, with a real-time dashboard to monitor soil data and irrigation cycles. 
+- 🚦 **Traffic Signs Classifier** – A deep neural network with 95% accuracy on a dataset of 40,000+ traffic sign images, with a Python GUI app that could classify signs in < 1 second response time. 
 
 ---
 
@@ -28,11 +50,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
@@ -49,29 +73,12 @@
 ### 📡 Networking & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
-
-## 🏆 Achievements  
-
-- 🥇 **Gold Medalist** – B.E. CSE (CGPA 9.78/10)  
-- 🎖️ **Finalist**, Smart India Hackathon 2022  
-- 🏅 **Winner**, Young Leader Award (CSE Dept.)  
-- 🎯 **Cisco Certified**: Generative AI Blue Belt | CCNA | DevNet  
-- 🏆 Finalist & Winner in multiple hackathons and coding competitions  
-
----
-
-## 📌 Featured Projects  
-
-- 🎬 **[Movie Ticket Booking Portal](https://github.com/akashsv01)** – User-friendly interface for booking, viewing, and deleting tickets.  
-- 🌱 **Delightful Drips: Smart Irrigation System** – IoT-based irrigation with real-time dashboard (Springer publication).  
-- 🚦 **Traffic Signs Classifier** – Deep Neural Network (95% accuracy) with Python GUI.  
 
 ---
 
@@ -88,14 +95,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsv01&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsv01&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsv01&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
-
-⭐️ From [Akash S Vora](https://github.com/akashsv01)
