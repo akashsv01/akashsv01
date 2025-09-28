@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&width=600&lines=Hey+there%2C+I'm+Akash+S+Vora;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<p>
   🌟 A curious mind who loves solving problems with <b>code, creativity, and innovation</b>.<br>
   💼 Previously a Technical Consulting Engineer at <b>Cisco</b>.<br>
   🎓 Holds a <b>Bachelor of Engineering (B.E.) in Computer Science and Engineering</b> from Vasavi College of Engineering, Hyderabad.<br>
